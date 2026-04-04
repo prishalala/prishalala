@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Prisha Lala👋
 
-<!--
-**prishalala/prishalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer  
+🚀 Building AI + Tech Projects  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- C++
+- Java
+- Data Structures & Algorithms
+- AI Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+🍽️ Meal Mate
+
+Meal Mate is a smart meal planning application built using Python and SQL that helps users choose personalized meals based on their fitness goals such as weight loss, muscle gain, and maintaining a healthy lifestyle, featuring categorized plans, a simple user-friendly interface, and a structured database to manage meal data efficiently, with scope for future enhancements like AI-based recommendations and calorie tracking.
+
+📚 Book Mate
+
+Book Mate is a book discovery and management application developed using Python and SQL that allows users to explore book recommendations, organize their reading, and track progress, supported by a database-driven system for storing and retrieving book data, with potential future features including AI-powered suggestions, user reviews, and social sharing.
+
+## 📫 Connect with me
+- LinkedIn: linkedin.com/in/prisha-lala-a33ba4285/
