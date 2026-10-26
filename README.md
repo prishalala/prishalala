@@ -68,7 +68,7 @@
 
 ### 🚀 Projects I'm proud of
 
-**[Redflag — Hybrid Phishing Detector](https://github.com/prishalala/redflag-phising-checker)**
+**[Redflag — Hybrid Phishing Detector](https://github.com/prishalala/redflag-phishing-checker)**
 Paste a URL, email, or SMS and get a typed JSON verdict: a 0–100 score across 4 risk levels, not just safe/unsafe. 16+ weighted heuristics (lookalike domains, 17-brand impersonation checks, urgency patterns, shorteners, IP hosts, redirect chains, RDAP domain age) run server-side, with an LLM layer on Groq on top. The `POST /api/analyze` endpoint uses Zod validation, parallel async lookups with timeouts and fallbacks, and drops to a heuristics-only mode when no LLM key is configured. Built with Next.js and TypeScript.
 
 **[AI Resume Analyser](https://github.com/prishalala/resume-analyser)**
